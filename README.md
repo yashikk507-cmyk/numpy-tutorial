@@ -3,3 +3,4 @@ This is a  Numpy tutorial for practising
 <br>creating array contains different types of arrays in ehich its easier to make thene from list </br>
 <br>different types of datatypes in arrays in numpy</br>
 we acess datatype in numpy by dt.type
+if we have mixed types in it ,it converts it to float value type
