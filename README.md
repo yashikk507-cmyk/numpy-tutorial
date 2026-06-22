@@ -15,3 +15,6 @@ there is like in one array we have arrays more than one like of nested arrays
 ([[1,2,3,4],[6,7,8,9],[2,3,7,8]])
 we can check its shape,size,dimensionsand datatypte
 shape by arr.shape,arr.size,arr.ndim,arr.dtype 
+
+## 3 dimensional array
+
