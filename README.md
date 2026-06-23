@@ -20,3 +20,19 @@ shape by arr.shape,arr.size,arr.ndim,arr.dtype
 
 [[[1,2],[3,4],[5,6],[7,8]]]
 in this matrix we can attain its size shape and other ndim by same way as in 2d array
+## datatypes in numpy
+int float boolean string
+types of int -
+.int8
+.int16
+.int32
+.int64
+types of float- 
+.float16
+.float32
+.float64
+boolean -
+bool_
+complex datatype-
+.complex64
+.complex128
