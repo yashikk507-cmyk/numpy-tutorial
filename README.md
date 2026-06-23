@@ -47,3 +47,4 @@ and to get first row  we use
 ---------matrix[0,:]
 second column
 ------[ :,1]
+acessing elements from matrix in numpy makes easier 
