@@ -38,3 +38,12 @@ bool_
 complex datatype-
 .complex64
 .complex128
+## indexing and slicing 
+giving or slicing in numpy in one d is same as normal in python 
+but in 2d matrix to give indexing we 
+use elemnt at row 1 and column 2 we will use
+-----matrix[1,2]means row,column 
+and to get first row  we use
+---------matrix[0,:]
+second column
+------[ :,1]
